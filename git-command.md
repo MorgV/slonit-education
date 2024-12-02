@@ -113,6 +113,14 @@ git commit -m "Initial commit"
 
 ## Знакомство с одногруппниками
 
--**_`Derrri`_** — md: **details, summary,strong.**
+-**_[`Derrri`](https://github.com/Derrri)_** — md: **details, summary,strong.**
 
 <img src="https://avatars.githubusercontent.com/u/160615893?v=4" alt="Derrri" width="200"/>
+
+-**_[`innwindu`](https://github.com/innwindu)_** — **Кратко локанично все по теме + навигация по md**
+
+<img src="https://avatars.githubusercontent.com/u/143111178?v=4" alt="innwindu" width="200"/>
+
+-**_[`Pleshz`](https://github.com/Pleshz)_** — **красиво**
+
+<img src="https://avatars.githubusercontent.com/u/96076405?v=4" alt="Pleshz" width="200"/>
