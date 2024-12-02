@@ -114,4 +114,5 @@ git commit -m "Initial commit"
 ## Знакомство с одногруппниками
 
 -**_`Derrri`_** — md: **details, summary,strong.**
-![`Derrri`](https://avatars.githubusercontent.com/u/160615893?v=4)
+
+<img src="https://avatars.githubusercontent.com/u/160615893?v=4" alt="Derrri" width="200"/>
